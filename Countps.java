@@ -1,3 +1,4 @@
+//To find perfect square in given file 
 public class Countps {
   public static void main(String[] args) {
     int[] arr = { 4, 20, 30, 40, 55, 64, 77, 83 };
